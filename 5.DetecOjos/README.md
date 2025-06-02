@@ -149,11 +149,6 @@ cv2.destroyAllWindows()
 
 ---
 
-## 📎 Recursos útiles
-
-- [Documentación oficial de OpenCV](https://docs.opencv.org/)
-- [Clasificadores Haar en GitHub](https://github.com/opencv/opencv/tree/master/data/haarcascades)
-- [Curso introductorio de OpenCV en Python](https://opencv.org/)
 
 ---
 
