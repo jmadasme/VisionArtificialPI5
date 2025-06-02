@@ -1,4 +1,3 @@
----
 ## Guía de Instalación
 
 Sigue estos pasos para configurar tu entorno:
@@ -24,4 +23,4 @@ Sigue estos pasos para configurar tu entorno:
     pip install opencv-python numpy
     sudo apt install python3-opencv python3-pip
     ```
----
+
