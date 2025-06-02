@@ -204,4 +204,4 @@ En la **Actividad 2**, aplicaremos **detección de contornos** a esta imagen bin
 
 📚 Curso de Visión Artificial con Raspberry Pi  
 📅 Módulo 1 – Fundamentos de Captura y Procesamiento  
-👨‍🏫 Profesor: [Tu Nombre]
+👨‍🏫 Profesor: [Jose Manuel Adasme]
