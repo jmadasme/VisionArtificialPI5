@@ -1,4 +1,4 @@
-﻿Aquí tienes los comandos para instalar el cliente ZeroTier en tu Raspberry Pi 5. Estos comandos asumen que tienes instalado Raspberry Pi OS y que tu sistema está actualizado.
+Aquí tienes los comandos para instalar el cliente ZeroTier en tu Raspberry Pi 5. Estos comandos asumen que tienes instalado Raspberry Pi OS y que tu sistema está actualizado.
 
 **1. Actualiza tu sistema (recomendado):**
 
